@@ -1,16 +1,15 @@
-### Hi there 👋
 
-<!--
-**vritansh/vritansh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1> Welcome to my github profile! </h1> 
+<h2>I am a data scientist currently studying for my M.S. in Data Science at Columbia University. My passion is using data and statistical analysis to solve real-world problems and make informed decisions. </h2>
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Connect with me
+LinkedIn: https://www.linkedin.com/in/vritansh-k/
+Twitter: @vritansh14
+
+Keywords
+Data science
+Machine learning
+Predictive maintenance
+Customer segmentation
+Natural language processing
