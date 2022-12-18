@@ -8,11 +8,6 @@
 
 Connect with me
 LinkedIn: https://www.linkedin.com/in/vritansh-k/
+
 Twitter: @vritansh14
 
-Keywords
-Data science
-Machine learning
-Predictive maintenance
-Customer segmentation
-Natural language processing
