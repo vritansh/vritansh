@@ -1,9 +1,11 @@
 
-<h1> Welcome to my github !  </h1> 
+<h1> You Made it to My GitHub Portfolio! 🎉 </h1> 
 
- 
+<h2>Welcome, dear reader! My name is Vritansh and I am a Data Scientist with a love for using data science and machine learning to solve problems that can help your business thrive.
 
-<h2>I am a data scientist currently studying M.S. in Data Science at Columbia University. My passion is using data and statistical analysis to solve real-world problems and make informed decisions. </h2>
+On this page, you'll find some of my finest work - projects that showcase my skills, interests, and (hopefully) a bit of my personality. So go ahead and have a look around, and if you have any questions or just want to chat, feel free to reach out to me on LinkedIn at  or via email at https://www.linkedin.com/in/vritansh-k/ .</h2>
+
+
 
 🔥 As a machine learning engineer and data scientist, I have a passion for solving complex problems with cutting-edge technology.
 
