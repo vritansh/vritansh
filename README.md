@@ -3,7 +3,7 @@
 
 <h4>Welcome, dear reader! My name is Vritansh and I am a Data Scientist with a love for using data science and machine learning to solve problems that can help your business thrive.
 <br>
-On this page, you'll find some of my finest work - projects that showcase my skills, interests, and (hopefully) a bit of my personality. So go ahead and have a look around, and if you have any questions or just want to chat, feel free to reach out to me on LinkedIn at  or via email at https://www.linkedin.com/in/vritansh-k/ .</h4>
+On this page, you'll find some of my finest work - projects that showcase my skills, interests, and (hopefully) a bit of my personality. So go ahead and have a look around, and if you have any questions or just want to chat, feel free to reach out to me on LinkedIn at https://www.linkedin.com/in/vritansh-k/ .</h4>
 
 
 
